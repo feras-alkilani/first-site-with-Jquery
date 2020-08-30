@@ -1,0 +1,51 @@
+/* Start Global Rules */
+*{
+    margin: 0;
+    padding: 0;
+    outline: none;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+.container{width: 1200px; margin: auto;}
+
+/* End Global Rules */
+
+ul {list-style: none; margin: 0; padding: 0;}
+
+
+body{
+    font-family: Tahoma, Arial;
+}
+
+
+/* Start Navbar */
+
+.navbar {
+    overflow: hidden;
+    background-color: #eee;
+}
+
+
+.navbar .brand {
+    float: left;
+}
+
+.navbar .links {
+    float: left;
+}
+
+/* End Navbar */
+
+
+/* Start My Frame Work */
+
+.clearrfix {
+    clear:both;
+}
+
+
+/* End My Frame Work */
+
+
